@@ -30,10 +30,6 @@ Ao informar o peso e a altura, a calculadora retorna o seu índice e suas condi�
 https://leonardojpereira.github.io/imc-calculator/
 ```
 
-## Imagem / Icones
-
-https://fontawesome.com/
-
 ⌨️ with ❤️ by [Leonardo Barbosa](https://github.com/leonardojpereira) 😊
 
 <h3 align="center">
