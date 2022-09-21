@@ -1,4 +1,5 @@
-![IMAGEM ILUSTRATIVA](https://user-images.githubusercontent.com/87662269/191378172-f6c1885b-ab94-4e3d-a65e-90833b8125aa.JPG)
+![imc_calculator_project_img](https://user-images.githubusercontent.com/87662269/191389118-9f1b4ac7-5cc9-419f-960e-31734d3ce509.JPG)
+
 
 <h1 align="center">
  CALCULADORA IMC :iphone:
